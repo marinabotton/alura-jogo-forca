@@ -1,4 +1,4 @@
-## Jogo Forca 🕹
+## Jogo da Forca 🕹
 
 * Curso: **Python: Avançando na Linguagem** | ALURA | 12h
 
