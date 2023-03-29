@@ -6,7 +6,7 @@
 
 ### Aprendizados: 📚
 
-* Manipur strings
+* Manipular strings
 
 * Estruturas de dados
 
