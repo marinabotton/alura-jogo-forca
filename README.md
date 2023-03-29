@@ -1,2 +1,17 @@
-# alura_jogo_forca
-Jogo Forca 🕹 Feito no Curso da Alura 📚
+## Jogo Forca 🕹
+
+* Curso: **Python: Avançando na Linguagem** | ALURA | 12h
+
+* Neste curso, fiz o Jogo da Forca na linguagem **Python** e realizei a importação, juntamente do Jogo da Adivinhação para o arquivo "*jogos.py*".
+
+### Aprendizados: 📚
+
+* Manipur strings
+
+* Estruturas de dados
+
+* Coleções de dados
+
+* Funções
+
+* Modularizar o jogo
